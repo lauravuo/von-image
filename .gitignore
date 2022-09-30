@@ -2,3 +2,4 @@
 python.env
 .DS_Store
 venv
+.envrc
